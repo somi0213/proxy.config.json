@@ -1,0 +1,6 @@
+{
+  "/customer/*": {
+    "target": "http://localhost:8090/features",
+    "secure": false
+  }
+}
